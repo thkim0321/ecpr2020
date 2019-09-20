@@ -1,2 +1,3 @@
 # Python Programming (ECPR winter school 2020)
-## Instruction PDF
+## Course preperation
+* Read ecpr2020_installation.pdf
