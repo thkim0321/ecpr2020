@@ -1,2 +1,2 @@
-# ECPR Winter School 2020
-# Python Programming
+# Python Programming (ECPR winter school 2020)
+## Instruction PDF
