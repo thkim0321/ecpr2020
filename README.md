@@ -1,1 +1,2 @@
-# ecpr2020
+# ECPR Winter School 2020
+# Python Programming
